@@ -1,0 +1,8 @@
+id: deepseek_assistant
+name: DeepSeek Assistant
+version: 2.0.0
+author: FuryNocturnTV
+description: Integración de DeepSeek AI en MCreator
+pluginClass: com.deepseek.mcreator.DeepSeekPlugin
+dependencies:
+  - mcreator>=2025.1
